@@ -1,0 +1,14 @@
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.SL.deps.json
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.SL.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.SL.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.DAL.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.Models.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.DAL.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\bin\Debug\netstandard2.0\PhoneBook.Models.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.csprojAssemblyReference.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.AssemblyInfoInputs.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.AssemblyInfo.cs
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.csproj.CopyComplete
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.SL\obj\Debug\netstandard2.0\PhoneBook.SL.csproj.CoreCompileInputs.cache

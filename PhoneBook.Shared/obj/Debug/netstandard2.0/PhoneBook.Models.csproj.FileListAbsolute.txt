@@ -1,0 +1,9 @@
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\bin\Debug\netstandard2.0\PhoneBook.Models.deps.json
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\bin\Debug\netstandard2.0\PhoneBook.Models.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\bin\Debug\netstandard2.0\PhoneBook.Models.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\obj\Debug\netstandard2.0\PhoneBook.Models.csprojAssemblyReference.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\obj\Debug\netstandard2.0\PhoneBook.Models.AssemblyInfoInputs.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\obj\Debug\netstandard2.0\PhoneBook.Models.AssemblyInfo.cs
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\obj\Debug\netstandard2.0\PhoneBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\obj\Debug\netstandard2.0\PhoneBook.Models.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.Shared\obj\Debug\netstandard2.0\PhoneBook.Models.pdb

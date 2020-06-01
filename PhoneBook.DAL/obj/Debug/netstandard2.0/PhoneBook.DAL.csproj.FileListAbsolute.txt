@@ -1,0 +1,17 @@
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\PhoneBook.DAL.deps.json
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\PhoneBook.DAL.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\PhoneBook.DAL.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\PhoneBook.Models.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\bin\Debug\netstandard2.0\PhoneBook.Models.pdb
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.csprojAssemblyReference.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.AssemblyInfoInputs.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.AssemblyInfo.cs
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.csproj.CopyComplete
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.dll
+C:\Users\xhova\source\repos\PhoneBookApp\PhoneBook.DAL\obj\Debug\netstandard2.0\PhoneBook.DAL.pdb

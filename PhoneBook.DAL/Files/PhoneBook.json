@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "Xhovana",
+    "Surname": "Gjinaj",
+    "PhoneType": 1,
+    "Deleted": false,
+    "PhoneNumber": "0684525147"
+  },
+  {
+    "Id": 2,
+    "Name": "Xhovana",
+    "Surname": "Gjinaj",
+    "PhoneType": 2,
+    "Deleted": false,
+    "PhoneNumber": "0687456321"
+  },
+  {
+    "Id": 4,
+    "Name": "test",
+    "Surname": "test",
+    "PhoneType": 0,
+    "Deleted": false,
+    "PhoneNumber": "0687412596"
+  },
+  {
+    "Id": 4,
+    "Name": "test5",
+    "Surname": "test5",
+    "PhoneType": 1,
+    "Deleted": false,
+    "PhoneNumber": "0687458963"
+  }
+]
